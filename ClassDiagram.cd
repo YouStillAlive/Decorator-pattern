@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Human" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIFAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Human.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Race" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIFAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Race.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Elf" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIFAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Elf.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Decorator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Warrior" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAIFAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Warrior.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Elf_Warrior" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAIFAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Elf_Warrior.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Swordsman" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIFAAAAAAAAAABAAQIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Swordsman.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAIFAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Magic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Archer" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAIFAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Archer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arbalester" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIFAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Arbalester.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rider" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAIFAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bad_Magic" Collapsed="true">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIFAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bad_Magic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Good_Magic" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIFAAAAAAAAAAAAAQIAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Good_Magic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
